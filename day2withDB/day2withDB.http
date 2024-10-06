@@ -1,0 +1,6 @@
+@day2withDB_HostAddress = http://localhost:5201
+
+GET {{day2withDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
